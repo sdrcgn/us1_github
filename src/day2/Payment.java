@@ -6,5 +6,5 @@ public class Payment {
     // payment 3éé yeniden
     // an 2  5fjkjk
     // yeniden
-    // start 2
+    // start/ne yaptim
 }
